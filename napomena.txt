@@ -1,0 +1,7 @@
+Ako se prosledjuje raspored taskova preko Serial, 
+onda ovako ide redosled parametara za npr. 2 taska: [arrival1,count1,period1,name1];[arrival2,count2,period2,name2];
+
+Duzina naziva taska mora da bude 2.
+
+Ova slika 'create2tasks' je primer iz knjige
+Samo pokazuje kako taskovi treba da se izvrsavaju za metodu create2tasks() koja postoji u .ino fajlu.
